@@ -6,7 +6,7 @@
 
 <!-- Center CoolText GIF -->
 <div align="center">
-  <img src="https://github.com/28paranoid/voyaa/blob/main/cooltext503669554869179.gif?raw=true" alt="Cool Text GIF" width="400"/>
+  <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
 </div>
 
 ###
