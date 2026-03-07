@@ -4,8 +4,9 @@
 
 ###
 
+<!-- Center CoolText GIF -->
 <div align="center">
-  <img height="" src="https://r72.cooltext.com/d.php?renderid=503669554869179&extension=gif"  />
+  <img src="https://github.com/28paranoid/voyaa/blob/main/cooltext503669554869179.gif?raw=true" alt="Cool Text GIF" width="400"/>
 </div>
 
 ###
