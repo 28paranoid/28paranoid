@@ -1,10 +1,16 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=#B22222" />
-  <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
+</div>
+<div align="left">
+<img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
+</div>
+<div align="center">
+
   <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=800&color=00CC33&center=true&vCenter=true&multiline=false&width=500&height=30&lines=1+0+1+...+0+1+0+...+1+1+0+...+0+0+1" alt="binary float" />
 </div>
+
 
 <img src="./header_socials.png" alt="Socials" height="52" /><br/>
 <a href="https://instagram.com/28.paranoid" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a><a href="mailto:28bidhanchhetri@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
