@@ -4,14 +4,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
-</div>
-
 
 <div align="center">
   <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
@@ -20,6 +15,9 @@
 ###
 
 <!-- Binary typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=800&color=00CC33&center=true&vCenter=true&multiline=false&width=500&height=30&lines=1+0+1+...+0+1+0+...+1+1+0+...+0+0+1" alt="binary float" />
@@ -27,10 +25,7 @@
 
 ###
 
-<!-- Socials header in Bitcount Prop Double Ink via readme-typing-svg -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=26&duration=9999999&pause=9999999&color=FFFFFF&vCenter=true&width=200&height=40&lines=Socials" alt="Socials" />
-</div>
+<img src="./header_socials.png" alt="Socials" height="52" />
 
 <div align="left">
   <a href="https://instagram.com/28.paranoid" target="_blank">
@@ -44,10 +39,7 @@
 
 ###
 
-<!-- Tech Stack header in Bitcount Prop Double Ink via readme-typing-svg -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=26&duration=9999999&pause=9999999&color=FFFFFF&vCenter=true&width=250&height=40&lines=Tech+Stack" alt="Tech Stack" />
-</div>
+<img src="./header_techstack.png" alt="Tech Stack" height="52" />
 
 <br clear="both">
 
