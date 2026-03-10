@@ -4,14 +4,14 @@
 
 ###
 
-<!-- Top section: new GIF on left, CoolText name GIF on right -->
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDE4a3diaGJ0ejkwNWNmNTF4Zjd3bGY5bTdtdnM3Z3JsNzN0eWI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif" />
-
-<div align="right">
-  <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
+<!-- Top section: new GIF on left, CoolText name GIF centered -->
+<div align="center">
+  <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
 </div>
 
-<br clear="both">
+<div align="center">
+  <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
+</div>
 
 ###
 
@@ -26,17 +26,21 @@
 
 ###
 
+## 🌐 Socials
+
 <div align="left">
-  <a href="28.paranoid" target="_blank">
+  <a href="https://instagram.com/28.paranoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="28bidhanchhetri@gmail.com" target="_blank">
+  <a href="mailto:28bidhanchhetri@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
 ###
+
+## 🛠️ Tech Stack
 
 <br clear="both">
 
