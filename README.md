@@ -5,8 +5,8 @@
 ###
 
 <!-- Top section: new GIF on left, CoolText name GIF centered -->
-<div align="center">
-  <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
+<div align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwzNHJ4YzVkc21hM2l6Zzd5cnI4a2xxb3hjMnF1NHpuMDJsb3JlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
 </div>
 
 <div align="center">
