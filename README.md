@@ -1,16 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=#B22222" />
 
-<!-- Top row: coder gif LEFT, name gif RIGHT -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200" align="left">
-      <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
-    </td>
-    <td align="right">
-      <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400" />
-    </td>
-  </tr>
-</table>
+<!-- Coder gif LEFT, name gif RIGHT -->
+<img align="left" height="150" src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" alt="coder gif" />
+<img align="right" width="400" src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" />
+<br clear="both">
 
 <!-- Binary typing animations -->
 <div align="center">
