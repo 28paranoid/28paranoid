@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
 </div>
 
