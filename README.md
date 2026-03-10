@@ -4,9 +4,8 @@
 
 ###
 
-<!-- Top section: new GIF on left, CoolText name GIF centered -->
-<div align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwzNHJ4YzVkc21hM2l6Zzd5cnI4a2xxb3hjMnF1NHpuMDJsb3JlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" height="150" alt="coder gif" />
 </div>
 
 <div align="center">
@@ -26,7 +25,10 @@
 
 ###
 
-## 🌐 Socials
+<!-- Socials header in Bitcount Prop Double Ink via readme-typing-svg -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=26&duration=9999999&pause=9999999&color=FFFFFF&vCenter=true&width=200&height=40&lines=Socials" alt="Socials" />
+</div>
 
 <div align="left">
   <a href="https://instagram.com/28.paranoid" target="_blank">
@@ -40,7 +42,10 @@
 
 ###
 
-## 🛠️ Tech Stack
+<!-- Tech Stack header in Bitcount Prop Double Ink via readme-typing-svg -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=26&duration=9999999&pause=9999999&color=FFFFFF&vCenter=true&width=250&height=40&lines=Tech+Stack" alt="Tech Stack" />
+</div>
 
 <br clear="both">
 
