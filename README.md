@@ -27,16 +27,7 @@
 
 <img align="left" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
 
-###
 
-<div align="left">
-
-  <!-- Animated typing tech stack -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=F7DF1E&width=435&lines=⚡+JavaScript;🌐+HTML5;🐍+Python;🎸+Django;🐳+Docker;🎨+Figma;🔀+Git;🦊+GitLab;🐙+GitHub;🔥+PyTorch;👁️+OpenCV;🔢+NumPy;📐+MATLAB;💻+VS+Code;🧠+TensorFlow;🐬+MySQL" alt="Typing SVG" />
-
-</div>
-
-###
 
 <div align="left">
 
