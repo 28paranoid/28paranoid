@@ -1,20 +1,25 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=#B22222"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=#B22222" />
 </div>
 
 ###
 
-<!-- Animated binary rain using capsule-render with text -->
+<!-- Top section: new GIF on left, CoolText name GIF on right -->
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDE4a3diaGJ0ejkwNWNmNTF4Zjd3bGY5bTdtdnM3Z3JsNzN0eWI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mj4ruS6mHkdKEdmwc1/giphy.gif" />
+
+<div align="right">
+  <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
+</div>
+
+<br clear="both">
+
+###
+
+<!-- Binary typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
 </div>
 
-<!-- Cool name GIF -->
-<div align="center">
-  <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
-</div>
-
-<!-- Second row of slow drifting binary -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=800&color=00CC33&center=true&vCenter=true&multiline=false&width=500&height=30&lines=1+0+1+...+0+1+0+...+1+1+0+...+0+0+1" alt="binary float" />
 </div>
@@ -23,19 +28,19 @@
 
 <div align="left">
   <a href="28.paranoid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="28bidhanchhetri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif"  />
+<img align="left" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" />
@@ -75,12 +80,12 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif" />
 
 ###
 
 <br clear="both">
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=#B22222"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=#B22222" />
 </div>
