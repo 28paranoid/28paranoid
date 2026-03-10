@@ -31,6 +31,15 @@
 
 <div align="left">
 
+  <!-- Animated typing tech stack -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=F7DF1E&width=435&lines=⚡+JavaScript;🌐+HTML5;🐍+Python;🎸+Django;🐳+Docker;🎨+Figma;🔀+Git;🦊+GitLab;🐙+GitHub;🔥+PyTorch;👁️+OpenCV;🔢+NumPy;📐+MATLAB;💻+VS+Code;🧠+TensorFlow;🐬+MySQL" alt="Typing SVG" />
+
+</div>
+
+###
+
+<div align="left">
+
   <!-- JavaScript - Golden Yellow -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="JavaScript" />
   <img width="6" />
