@@ -9,15 +9,17 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
+</div>
+
+
+<div align="center">
   <img src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" width="400"/>
 </div>
 
 ###
 
 <!-- Binary typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=800&color=00CC33&center=true&vCenter=true&multiline=false&width=500&height=30&lines=1+0+1+...+0+1+0+...+1+1+0+...+0+0+1" alt="binary float" />
