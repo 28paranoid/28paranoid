@@ -26,7 +26,7 @@
 <!-- Tech Stack -->
 <img src="./header_techstack.png" alt="Tech Stack" height="52" /><br>
 <img align="left" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif" />
+
 
 <br clear="both">
 
