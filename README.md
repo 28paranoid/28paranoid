@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
 
 <!-- Row 1: Languages -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="30" />
