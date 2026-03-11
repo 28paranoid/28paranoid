@@ -26,7 +26,13 @@
 <!-- Tech Stack -->
 <img src="./header_techstack.png" alt="Tech Stack" height="52" /><br>
 <img align="left" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif" />
 
+<br clear="both">
+
+<div align="center">
+
+<!-- Row 1: Languages -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343" height="30" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
@@ -35,24 +41,38 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="30" />
+
+<br/>
+
+<!-- Row 2: Frameworks & Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B" height="30" />
 <img src="https://img.shields.io/badge/YOLO-00FFAA?style=for-the-badge&logo=yolo&logoColor=black" height="30" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Label%20Studio-FFB600?style=for-the-badge&logo=labelstudio&logoColor=black" height="30" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="30" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
+
+<br/>
+
+<!-- Row 3: Data, Infra & Automation -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Ollama-2C2C2C?style=for-the-badge&logo=ollama&logoColor=white" height="30" />
+
+<br/>
+
+<!-- Row 4: Design & Creative -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinity&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="30" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Ollama-2C2C2C?style=for-the-badge&logo=ollama&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF2D2D?style=for-the-badge&logo=davinciresolve&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
+
+</div>
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif" />
 
