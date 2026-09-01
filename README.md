@@ -4,7 +4,7 @@
 
 # Bidhan Chhetri
 
-> Technical founder
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid hero visual" />
@@ -16,11 +16,10 @@
 
 > Building useful things and learning in public.
 
-- 👥 **0** followers · **0** following
 
 *Small, useful work over vague claims.*
 
-## What I’m shipping
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/highlights?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid highlights visual" />
@@ -51,4 +50,4 @@
 
 <a href="https://github.com/28paranoid">GitHub</a>
 
-<p align="center"><sub>Bidhan Chhetri · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Bidhan Chhetri 
