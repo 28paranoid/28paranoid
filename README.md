@@ -1,49 +1,54 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&color=#B22222" />
+## Building in public
 
-<!-- Coder gif LEFT, name gif RIGHT -->
-<img align="left" height="150" src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" alt="coder gif" />
-<img align="right" width="400" src="https://images.cooltext.com/5753319.gif" alt="Cool Text GIF" />
-<br clear="both">
-
-<!-- Binary typing animations -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01001000+01100101+01101100+01101100+01101111;10110100+00101101+11010010+10100011;01100011+01101111+01100100+01100101" alt="binary rain" />
+
+# Bidhan Chhetri
+
+> Technical founder
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid hero visual" />
+</p>
+
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=800&color=00CC33&center=true&vCenter=true&width=500&height=25&lines=1+0+1+...+0+1+0+...+1+1+0+...+0+0+1" alt="binary float" />
-</div>
 
-<!-- Socials -->
-<img src="./header_socials.png" alt="Socials" height="52" /><br>
-<a href="https://instagram.com/28.paranoid" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
-</a>
-<a href="mailto:28bidhanchhetri@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-</a>
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+## The point of view
 
-<!-- Tech Stack -->
-<img src="./header_techstack.png" alt="Tech Stack" height="52" /><br>
-<img align="left" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwyenIwZGk1bWx5ZHI5a3lzcGFvcDF2M3Zud3h6Y2FkaWl5MjR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343" height="30" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B" height="30" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="30" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
+> Building useful things and learning in public.
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5Zmw3dGhieXNxanVvaDN2YXYyYmFpNXY0aTYxdmF2NGwwMWVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjNbNGVuWx0gI9UdPC/giphy.gif" />
+- 👥 **0** followers · **0** following
 
-<br clear="both">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=#B22222" />
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid highlights visual" />
+</p>
+
+<p><b>Bidhan Chhetri</b> is shipping 9 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/28paranoid/Weather-App">Weather-App</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/28paranoid/Note-Taking-App">Note-Taking-App</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Kotlin · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/28paranoid/Student_profile_section">Student_profile_section</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Kotlin · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/28paranoid/AI-Sorting-Machine">AI-Sorting-Machine</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>9</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>67</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid social visual" />
+</p>
+
+<a href="https://github.com/28paranoid">GitHub</a>
+
+<p align="center"><sub>Bidhan Chhetri · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
