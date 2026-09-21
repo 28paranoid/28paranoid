@@ -1,5 +1,3 @@
-## Building in public
-
 <div align="center">
 
 # Bidhan Chhetri
@@ -12,22 +10,12 @@
 
 </div>
 
-## The point of view
-
-> Building useful things and learning in public.
-
-
-*Small, useful work over vague claims.*
-
-
-
+## Creativity...
 <p align="center">
   <img src="https://www.gitskins.com/api/section/highlights?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid highlights visual" />
 </p>
 
-<p><b>Bidhan Chhetri</b> is shipping 9 public projects with 0 stars of proof.</p>
-
-## Products and proof
+## Products
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/28paranoid/Weather-App">Weather-App</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
@@ -42,7 +30,7 @@
 <tr><td align="center"><b>9</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>67</b><br/><sub>contributions</sub></td></tr>
 </table>
 
-## Start a conversation
+## Connect creative minds
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=28paranoid&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217175870%3Fu%3D484f29996f7effff994faab21b3a605f34102fae%26v%3D4" alt="28paranoid social visual" />
