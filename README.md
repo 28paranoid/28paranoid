@@ -1,6 +1,6 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Bidhan — Designer & Software Developer" />
+  <img src="./banner.svg" width="100%" alt="Bidhan — Designer & Software Developer" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <!-- ============ WHO AM I ============ -->
-<p align="center"><img src="./assets/h-whoami.svg" height="90" alt="Who am I?" /></p>
+<p align="center"><img src="./h-whoami.svg" height="90" alt="Who am I?" /></p>
 
 I'm **Bidhan Chhetri**, a developer from **Bhutan 🇧🇹** who likes turning ideas into **apps that actually work**. My main playground is **Android**, where I build with `Kotlin`, `XML layouts`, `Firebase` and `SQLite`, from login flows and REST APIs to local storage and full CRUD.
 
@@ -34,7 +34,7 @@ Right now I'm sharpening my skills in **mobile development** and **machine learn
 > Everything you see here is built with **practice**, **curiosity** and a little bit of **paranoia**.
 
 <!-- ============ CONTRIBUTIONS ============ -->
-<p align="center"><img src="./assets/h-contrib.svg" height="90" alt="My contributions" /></p>
+<p align="center"><img src="./h-contrib.svg" height="90" alt="My contributions" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=28paranoid&bg_color=0d1117&color=ffffff&title_color=ffffff&line=E5001C&point=ffffff&area=true&area_color=E5001C&hide_border=true&custom_title=My%20Contributions" width="100%" alt="contribution graph" />
@@ -44,7 +44,7 @@ Right now I'm sharpening my skills in **mobile development** and **machine learn
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
-  <img src="./assets/h-stack.svg" height="70" alt="My tech stack" /><br/><br/>
+  <img src="./h-stack.svg" height="70" alt="My tech stack" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,python,html,css,js,git,github,vscode&perline=4&theme=dark" alt="tech stack" />
 </td>
 <td width="50%" align="center" valign="top">
@@ -56,7 +56,7 @@ Right now I'm sharpening my skills in **mobile development** and **machine learn
 </table>
 
 <!-- ============ PROJECTS ============ -->
-<p align="center"><img src="./assets/h-projects.svg" height="90" alt="My projects" /></p>
+<p align="center"><img src="./h-projects.svg" height="90" alt="My projects" /></p>
 
 <p align="center">
   <a href="https://github.com/28paranoid/AI-Sorting-Machine"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=28paranoid&repo=AI-Sorting-Machine&bg_color=0B0B0B&title_color=E5001C&text_color=ffffff&icon_color=E5001C&border_color=E5001C" alt="AI-Sorting-Machine" /></a>
@@ -66,4 +66,4 @@ Right now I'm sharpening my skills in **mobile development** and **machine learn
 </p>
 
 <!-- ============ FOOTER ============ -->
-<p align="center"><img src="./assets/footer.svg" width="80%" alt="Thanks for visiting" /></p>
+<p align="center"><img src="./footer.svg" width="80%" alt="Thanks for visiting" /></p>
